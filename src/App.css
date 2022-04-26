@@ -1,0 +1,19 @@
+/*Navbar*/
+.navbar-nav a {
+  font-size: 18px;
+}
+
+.carousel-item {
+  height: 32rem;
+  background: #777;
+  background-size: cover;
+  color: white;
+  position: relative;
+}
+.container {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding-bottom: 50px;
+}
